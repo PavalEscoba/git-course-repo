@@ -1,3 +1,4 @@
 # git-course-repo
 readme was manually modified on github.com 
-readme was manually modified locally
+
+this line was modified manually during conflicts resolution
